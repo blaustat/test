@@ -1,0 +1,448 @@
+Column1;Column2;Column3;Column4;Column5;Column6;Column7;Column8;Column9;Column10
+;Name;NOGA6;NOGA2;NOGA1;2015;2020;DeltaP5b;Wgroup;Cluster
+1; Anbau von Getreide (ohne Reis), Hülsenfrüchten und Ölsaaten;011100;01;0;5;6;20;3;Industrie, Produktion
+2; Anbau von sonstigen einjährigen Pflanzen;011900;01;0;40;20;-50;0;Industrie, Produktion
+3; Anbau von Wein- und Tafeltrauben;012101;01;0;7;4;-42.8571428571429;0;Industrie, Produktion
+4; Haltung von Tieren der Pferdegattung;014300;01;0;4;4;0;2;Industrie, Produktion
+5; Gemischte Landwirtschaft;015000;01;0;10;10;0;2;Industrie, Produktion
+6; Forstwirtschaft;021000;02;0;13;16;23.0769230769231;4;Industrie, Produktion
+7; Gewinnung von Kies, Sand, Ton und Kaolin;081200;08;0;16;14;-12.5;1;Industrie, Produktion
+8; Schlachten (ohne Schlachten von Geflügel);101100;10;1;349;309;-11.4613180515759;1;Industrie, Produktion
+9; Fleischverarbeitung;101300;10;1;1025;971;-5.26829268292683;1;Industrie, Produktion
+10; Fischverarbeitung;102000;10;1;138;167;21.0144927536232;4;Industrie, Produktion
+11; Herstellung von Backwaren (ohne Dauerbackwaren);107100;10;1;494;403;-18.4210526315789;1;Industrie, Produktion
+12; Herstellung von Teigwaren;107300;10;1;5;5;0;2;Industrie, Produktion
+13; Herstellung von Zuckerwaren;108202;10;1;9;10;11.1111111111111;3;Industrie, Produktion
+14; Verarbeitung von Kaffee und Tee, Herstellung von Kaffee-Ersatz;108300;10;1;5;5;0;2;Industrie, Produktion
+15; Herstellung von Würzmitteln und Saucen;108400;10;1;185;158;-14.5945945945946;1;Industrie, Produktion
+16; Herstellung von homogenisierten und diätetischen Nahrungsmitteln;108600;10;1;38;52;36.8421052631579;4;Industrie, Produktion
+17; Herstellung von sonstigen Nahrungsmitteln a. n. g.;108900;10;1;9;18;100;4;Industrie, Produktion
+18; Herstellung von Bier;110500;11;1;46;40;-13.0434782608696;1;Industrie, Produktion
+19; Veredlung von Textilien und Bekleidung;133000;13;1;7;10;42.8571428571429;4;Industrie, Produktion
+20; Herstellung von sonstigen Textilwaren a. n. g.;139903;13;1;7;9;28.5714285714286;4;Industrie, Produktion
+21; Herstellung von Damen- und Mädchenoberbekleidung;141302;14;1;27;18;-33.3333333333333;0;Industrie, Produktion
+22; Herstellung von Oberbekleidung ohne ausgeprägten Schwerpunkt;141303;14;1;106;88;-16.9811320754717;1;Industrie, Produktion
+23; Herstellung von sonstiger Bekleidung und Bekleidungszubehör a. n. g.;141900;14;1;11;14;27.2727272727273;4;Industrie, Produktion
+24; Herstellung von Reiseartikeln, Leder- und Sattlerwaren (ohne Herstellung von Lederbekleidung und Schuhen);151200;15;1;14;18;28.5714285714286;4;Industrie, Produktion
+25; Bauschreinerei, Fenster und Türen;162301;16;1;87;41;-52.8735632183908;0;Industrie, Produktion
+26; Schreinerarbeiten im Innenausbau;162302;16;1;240;285;18.75;3;Industrie, Produktion
+27; Herstellung von sonstigen Waren aus Papier, Karton und Pappe;172900;17;1;18;16;-11.1111111111111;1;Industrie, Produktion
+28; Offsetdruck;181201;18;1;261;96;-63.2183908045977;0;Industrie, Produktion
+29; Siebdruck;181202;18;1;10;7;-30;0;Industrie, Produktion
+30; Lichtpause- und Reprografiebetriebe;181203;18;1;34;26;-23.5294117647059;0;Industrie, Produktion
+31; Sonstiges Drucken a. n. g.;181204;18;1;30;31;3.33333333333334;2;Industrie, Produktion
+32; Erbringung von druckvorbereitenden Dienstleistungen;181301;18;1;70;52;-25.7142857142857;0;Industrie, Produktion
+33; Binden von Druckerzeugnissen und damit verbundene Dienstleistungen;181400;18;1;30;25;-16.6666666666667;1;Life Sciences, Chemie, Pharma
+34; Herstellung von Schädlingsbekämpfungs-, Pflanzenschutz- und Desinfektionsmitteln;202000;20;2;61;20;-67.2131147540984;0;Life Sciences, Chemie, Pharma
+35; Herstellung von Klebstoffen;205200;20;2;289;233;-19.3771626297578;1;Life Sciences, Chemie, Pharma
+36; Herstellung von sonstigen chemischen Erzeugnissen a. n. g.;205900;20;2;573;296;-48.3420593368237;0;Life Sciences, Chemie, Pharma
+37; Herstellung von pharmazeutischen Grundstoffen;211000;21;2;29;34;17.2413793103448;3;Life Sciences, Chemie, Pharma
+38; Herstellung von pharmazeutischen Spezialitäten und sonstigen pharmazeutischen Erzeugnissen;212000;21;2;18667;17943;-3.87850216960411;2;Life Sciences, Chemie, Pharma
+39; Herstellung von sonstigen Kunststoffwaren;222900;22;2;19;17;-10.5263157894737;1;Industrie, Produktion
+40; Herstellung, Veredlung und Bearbeitung von sonstigem Glas einschliesslich technischen Glaswaren;231900;23;2;24;19;-20.8333333333333;0;Industrie, Produktion
+41; Herstellung von keramischen Haushaltswaren und Ziergegenständen;234100;23;2;6;4;-33.3333333333333;0;Industrie, Produktion
+42; Be- und Verarbeitung von Naturwerksteinen und Natursteinen a. n. g.;237000;23;2;43;34;-20.9302325581395;0;Industrie, Produktion
+43; Herstellung von Produkten aus Asphalt;239901;23;2;37;33;-10.8108108108108;1;Industrie, Produktion
+44; Herstellung von Metallkonstruktionen;251100;25;2;39;40;2.56410256410255;2;MEM-Industrie
+45; Herstellung von Ausbauelementen aus Metall;251200;25;2;20;23;15;3;MEM-Industrie
+46; Mechanische Werkstätten;256201;25;2;179;108;-39.6648044692737;0;MEM-Industrie
+47; Schlossereien;256202;25;2;44;49;11.3636363636364;3;MEM-Industrie
+48; Herstellung von elektronischen Bauelementen;261100;26;2;374;154;-58.8235294117647;0;Industrie, Produktion
+49; Herstellung von Geräten der Unterhaltungselektronik;264000;26;2;4;4;0;2;Industrie, Produktion
+50; Herstellung von Mess-, Kontroll-, Navigations- u. ä. Instrumenten und Vorrichtungen;265100;26;2;306;124;-59.4771241830065;0;Life Sciences, Chemie, Pharma
+51; Herstellung und Zusammensetzung von Uhren;265201;26;2;13;10;-23.0769230769231;0;Industrie, Produktion
+52; Herstellung von Bestrahlungs- und Elektrotherapiegeräten und elektromedizinischen Geräten;266000;26;2;367;465;26.7029972752044;4;Life Sciences, Chemie, Pharma
+53; Herstellung von elektrischen Lampen und Leuchten;274000;27;2;418;335;-19.8564593301435;1;MEM-Industrie
+54; Herstellung von Hebezeugen und Fördermitteln;282200;28;2;6;10;66.6666666666667;4;MEM-Industrie
+55; Herstellung von kälte- und lufttechnischen Erzeugnissen, nicht für den Haushalt;282500;28;2;52;58;11.5384615384615;3;MEM-Industrie
+56; Herstellung von sonstigen nicht wirtschaftszweigspezifischen Maschinen a. n. g.;282900;28;2;7;11;57.1428571428571;4;MEM-Industrie
+57; Herstellung von sonstigen Werkzeugmaschinen;284900;28;2;8;6;-25;0;MEM-Industrie
+58; Sonstige Herstellung von Maschinen für sonstige bestimmte Wirtschaftszweige a. n. g.;289902;28;2;10;13;30;4;MEM-Industrie
+59; Herstellung von Matratzen;310300;31;3;33;33;0;2;Industrie, Produktion
+60; Herstellung von sonstigen Möbeln;310900;31;3;23;20;-13.0434782608696;1;Industrie, Produktion
+61; Herstellung von Münzen;321100;32;3;15;8;-46.6666666666667;0;Industrie, Produktion
+62; Herstellung von Schmuck, Gold- und Silberschmiedwaren a. n. g. (ohne Fantasieschmuck);321202;32;3;102;95;-6.86274509803921;1;Kreativwirtschaft
+63; Herstellung von Musikinstrumenten;322000;32;3;31;34;9.6774193548387;3;Kreativwirtschaft
+64; Herstellung von Spielwaren;324000;32;3;4;5;25;4;Industrie, Produktion
+65; Herstellung von medizinischen und zahnmedizinischen Apparaten und Materialien;325001;32;3;14;37;164.285714285714;4;Life Sciences, Chemie, Pharma
+66; Herstellung von orthopädischen und prothetischen Erzeugnissen;325002;32;3;119;123;3.36134453781514;2;Life Sciences, Chemie, Pharma
+67; Zahntechnische Laboratorien;325003;32;3;596;712;19.4630872483222;3;Life Sciences, Chemie, Pharma
+68; Herstellung von Brillen;325004;32;3;215;211;-1.86046511627908;2;Life Sciences
+69; Herstellung von sonstigen Erzeugnissen a. n. g.;329900;32;3;33;31;-6.06060606060606;1;Industrie, Produktion
+70; Reparatur von Maschinen;331200;33;3;25;58;132;4;Industrie, Produktion
+71; Reparatur von elektronischen und optischen Geräten;331300;33;3;8;5;-37.5;0;Industrie, Produktion
+72; Reparatur und Instandhaltung von Luft- und Raumfahrzeugen;331600;33;3;1218;973;-20.1149425287356;0;MEM-Industrie
+73; Installation von Maschinen und Ausrüstungen a. n. g.;332000;33;3;10;19;90;4;Industrie, Produktion
+74; Elektrizitätserzeugung;351100;35;3;4;6;50;4;Industrie, Produktion
+75; Elektrizitätsverteilung;351300;35;3;568;575;1.23239436619718;2;Industrie, Produktion
+76; Gasverteilung durch Rohrleitungen;352200;35;3;276;345;25;4;Industrie, Produktion
+77; Wärme- und Kälteversorgung;353000;35;3;54;9;-83.3333333333333;0;Industrie, Produktion
+78; Abwasserentsorgung;370000;37;3;16;8;-50;0;Industrie, Produktion
+79; Behandlung und Beseitigung nicht gefährlicher Abfälle;382100;38;3;18;105;483.333333333333;4;Industrie, Produktion
+80; Rückgewinnung sortierter Werkstoffe;383200;38;3;244;204;-16.3934426229508;1;Industrie, Produktion
+81; Entwicklung von Bauprojekten;411000;41;4;15;45;200;4;Bau
+82; Allgemeiner Hochbau;412001;41;4;338;398;17.7514792899408;3;Bau
+83; Allgemeiner Hoch- und Tiefbau ohne ausgeprägten Schwerpunkt;412003;41;4;913;932;2.08105147864184;2;Bau
+84; Unterhalt und Reparatur von Gebäuden;412004;41;4;163;102;-37.4233128834356;0;Bau
+85; Bau von Strassen;421100;42;4;116;130;12.0689655172414;3;Bau
+86; Bau von Bahnverkehrsstrecken;421200;42;4;167;193;15.5688622754491;3;Bau
+87; Rohrleitungstiefbau, Brunnenbau und Kläranlagenbau;422100;42;4;14;13;-7.14285714285714;1;Bau
+88; Sonstiger Tiefbau a. n. g.;429900;42;4;44;36;-18.1818181818182;1;Bau
+89; Abbrucharbeiten;431100;43;4;8;13;62.5;4;Bau
+90; Elektroinstallation;432100;43;4;2661;2234;-16.0465990229237;1;Bau
+91; Sanitärinstallation;432201;43;4;54;55;1.85185185185186;2;Bau
+92; Sanitärinstallation und Spenglerei;432202;43;4;280;252;-10;1;Bau
+93; Sanitär- und Heizungsinstallation;432203;43;4;310;290;-6.45161290322581;1;Bau
+94; Installation von Heizungs-, Lüftungs- und Klimaanlagen;432204;43;4;568;621;9.33098591549295;3;Bau
+95; Dämmung gegen Kälte, Wärme, Schall und Erschütterung;432901;43;4;118;83;-29.6610169491525;0;Bau
+96; Sonstige Bauinstallation;432902;43;4;139;79;-43.1654676258993;0;Bau
+97; Anbringen von Stuckaturen, Gipserei und Verputzerei;433100;43;4;291;277;-4.81099656357389;2;Bau
+98; Einbau von Fenster, Türen und Innenausbau, Einbauküchen, Einbaumöbel;433200;43;4;148;107;-27.7027027027027;0;Bau
+99; Verlegen von Fussboden;433301;43;4;195;182;-6.66666666666667;1;Bau
+100; Verlegen von Fliesen und Platten;433302;43;4;204;199;-2.45098039215687;2;Bau
+101; Malerei;433401;43;4;765;668;-12.6797385620915;1;Bau
+102; Malerei und Gipserei ohne ausgeprägten Schwerpunkt;433402;43;4;177;205;15.819209039548;3;Bau
+103; Glaserei;433403;43;4;44;49;11.3636363636364;3;Bau
+104; Sonstiger Ausbau a. n. g.;433900;43;4;15;14;-6.66666666666667;1;Bau
+105; Holzbau, Zimmerei;439101;43;4;34;56;64.7058823529412;4;Bau
+106; Dachdeckerei;439102;43;4;115;97;-15.6521739130435;1;Bau
+107; Bauspenglerei;439103;43;4;13;17;30.7692307692308;4;Bau
+108; Abdichtungen;439901;43;4;43;34;-20.9302325581395;0;Bau
+109; Gerüstbau;439902;43;4;74;80;8.10810810810811;3;Bau
+110; Maurerarbeiten;439903;43;4;78;60;-23.0769230769231;0;Bau
+111; Sonstiger spezialisierter Hoch- und Tiefbau a. n. g.;439905;43;4;302;83;-72.5165562913907;0;Bau
+112; Handelsvermittlung und Grosshandel mit Automobilen mit einem Gesamtgewicht von 3,5 t oder weniger;451101;45;4;10;7;-30;0;Handel
+113; Detailhandel mit Automobilen mit einem Gesamtgewicht von 3,5 t oder weniger;451102;45;4;24;16;-33.3333333333333;0;Handel
+114; Instandhaltung und Reparatur von Automobilen;452001;45;4;544;459;-15.625;1;Sonstige
+115; Reparatur und Lackieren von Carrosserien;452002;45;4;209;168;-19.6172248803828;1;Sonstige
+116; Grosshandel mit Automobilteilen und -zubehör;453100;45;4;79;86;8.86075949367089;3;Handel
+117; Detailhandel mit Automobilteilen und -zubehör;453200;45;4;26;31;19.2307692307692;3;Handel
+118; Handel mit Motorrädern, Kraftradteilen und -zubehör, Instandhaltung und Reparatur von Motorrädern;454000;45;4;59;49;-16.9491525423729;1;Handel
+119; Handelsvermittlung von Maschinen, technischem Bedarf, Wasser- und Luftfahrzeugen;461400;46;4;15;12;-20;1;Handel
+120; Handelsvermittlung von Nahrungsmitteln, Getränken und Tabakwaren;461700;46;4;8;16;100;4;Handel
+121; Handelsvermittlung von Waren ohne ausgeprägten Schwerpunkt;461900;46;4;37;39;5.40540540540539;3;Handel
+122; Grosshandel mit Getreide, Rohtabak, Saatgut und Futtermitteln;462100;46;4;21;15;-28.5714285714286;0;Handel
+123; Grosshandel mit Obst, Gemüse und Kartoffeln;463100;46;4;9;5;-44.4444444444444;0;Handel
+124; Grosshandel mit Fleisch und Fleischwaren;463200;46;4;48;57;18.75;3;Handel
+125; Grosshandel mit Wein und Spirituosen;463401;46;4;30;21;-30;0;Handel
+126; Grosshandel mit sonstigen Getränken;463402;46;4;23;24;4.34782608695652;2;Handel
+127; Grosshandel mit Tabakwaren;463500;46;4;245;159;-35.1020408163265;0;Handel
+128; Grosshandel mit sonstigen Nahrungs- und Genussmitteln;463800;46;4;142;108;-23.943661971831;0;Handel
+129; Grosshandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren, ohne ausgeprägten Schwerpunkt;463900;46;4;41;46;12.1951219512195;3;Handel
+130; Grosshandel mit Textilien;464100;46;4;83;76;-8.43373493975904;1;Handel
+131; Grosshandel mit Bekleidung;464201;46;4;305;319;4.59016393442624;2;Handel
+132; Grosshandel mit Schuhen;464202;46;4;17;18;5.88235294117647;3;Handel
+133; Grosshandel mit elektrischen Haushaltsgeräten;464301;46;4;89;16;-82.0224719101124;0;Handel
+134; Grosshandel mit Geräten der Unterhaltungselektronik;464302;46;4;17;8;-52.9411764705882;0;Handel
+135; Grosshandel mit keramischen Erzeugnissen, Glaswaren und Reinigungsmitteln;464400;46;4;34;32;-5.88235294117647;1;Handel
+136; Grosshandel mit kosmetischen Erzeugnissen und Körperpflegemitteln;464500;46;4;46;61;32.6086956521739;4;Handel
+137; Grosshandel mit pharmazeutischen Erzeugnissen;464601;46;4;1152;1603;39.1493055555556;4;Handel
+138; Grosshandel mit medizinischen, chirurgischen und orthopädischen Erzeugnissen;464602;46;4;243;263;8.23045267489713;3;Handel
+139; Grosshandel mit Möbeln, Teppichen, Lampen und Leuchten;464700;46;4;28;22;-21.4285714285714;0;Handel
+140; Grosshandel mit Uhren;464801;46;4;226;192;-15.0442477876106;1;Handel
+141; Grosshandel mit Schreibwaren, Büchern und Zeitungen;464901;46;4;71;14;-80.2816901408451;0;Handel
+142; Grosshandel mit Sportartikeln;464903;46;4;29;24;-17.2413793103448;1;Handel
+143; Grosshandel mit Geschenkartikeln und Souvenirs;464905;46;4;47;37;-21.2765957446808;0;Handel
+144; Grosshandel mit sonstigen Gebrauchs- und Verbrauchsgütern a. n. g.;464906;46;4;15;6;-60;0;Handel
+145; Grosshandel mit Datenverarbeitungsgeräten und peripheren Einheiten;465101;46;4;32;43;34.375;4;Handel
+146; Grosshandel mit Software;465102;46;4;23;10;-56.5217391304348;0;Handel
+147; Grosshandel mit elektronischen Bauteilen und Telekommunikationsgeräten;465200;46;4;61;69;13.1147540983606;3;Handel
+148; Grosshandel mit Büromöbeln;466500;46;4;35;21;-40;0;Handel
+149; Grosshandel mit sonstigen Büromaschinen und -einrichtungen;466600;46;4;17;12;-29.4117647058823;0;Handel
+150; Grosshandel mit sonstigen Maschinen und Ausrüstungen;466900;46;4;286;304;6.29370629370629;3;Handel
+151; Grosshandel mit festen Brennstoffen und Mineralölerzeugnissen;467100;46;4;49;91;85.7142857142857;4;Handel
+152; Grosshandel mit Erzen, Metallen und Metallhalbzeug;467200;46;4;98;87;-11.2244897959184;1;Handel
+153; Grosshandel mit Holz und Bauelementen aus Holz;467301;46;4;46;45;-2.17391304347826;2;Handel
+154; Grosshandel mit Baustoffen;467302;46;4;151;104;-31.1258278145695;0;Handel
+155; Grosshandel mit Flachglas, Anstrichmitteln und Sanitärkeramik;467303;46;4;93;92;-1.0752688172043;2;Handel
+156; Grosshandel mit Metall- und Kunststoffwaren für Bauzwecke sowie Installationsbedarf für Gas, Wasser und Heizung;467400;46;4;94;88;-6.38297872340425;1;Handel
+157; Grosshandel mit chemischen Erzeugnissen;467500;46;4;368;369;0.271739130434789;2;Handel
+158; Grosshandel mit sonstigen Halbwaren;467600;46;4;34;21;-38.2352941176471;0;Handel
+159; Grosshandel ohne ausgeprägten Schwerpunkt;469000;46;4;354;342;-3.38983050847458;2;Handel
+160; Verbrauchermärkte (> 2500 m2);471101;47;4;178;202;13.4831460674157;3;Handel
+161; Grosse Supermärkte (1000-2499 m2);471102;47;4;357;548;53.5014005602241;4;Handel
+162; Kleine Supermärkte (400-999 m2);471103;47;4;552;624;13.0434782608696;3;Handel
+163; Grosse Geschäfte (100-399 m2);471104;47;4;315;270;-14.2857142857143;1;Handel
+164; Kleine Geschäfte (< 100 m2);471105;47;4;55;102;85.4545454545455;4;Handel
+165; Warenhäuser;471901;47;4;1122;724;-35.4723707664884;0;Handel
+166; Sonstiger Detailhandel mit Waren verschiedener Art a.n.g;471902;47;4;89;123;38.2022471910112;4;Handel
+167; Detailhandel mit Obst, Gemüse und Kartoffeln;472100;47;4;17;31;82.3529411764706;4;Handel
+168; Detailhandel mit Back- und Süsswaren;472401;47;4;274;246;-10.2189781021898;1;Handel
+169; Bäckereien - Tea-Rooms;472402;47;4;189;160;-15.3439153439153;1;Handel
+170; Detailhandel mit Getränken;472500;47;4;86;33;-61.6279069767442;0;Handel
+171; Detailhandel mit Tabakwaren;472600;47;4;27;20;-25.9259259259259;0;Handel
+172; Detailhandel mit Milcherzeugnissen und Eiern;472901;47;4;9;14;55.5555555555556;4;Handel
+173; Sonstiger Fachdetailhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren a. n. g. (in Verkaufsräumen);472902;47;4;181;182;0.552486187845314;2;Handel
+174; Detailhandel mit Motorenkraftstoffen (Tankstellen);473000;47;4;125;119;-4.8;2;Handel
+175; Detailhandel mit Datenverarbeitungsgeräten, peripheren Geräten und Software;474100;47;4;179;169;-5.58659217877095;1;Handel
+176; Detailhandel mit Telekommunikationsgeräten;474200;47;4;34;46;35.2941176470588;4;Handel
+177; Detailhandel mit Geräten der Unterhaltungselektronik;474300;47;4;249;123;-50.6024096385542;0;Handel
+178; Detailhandel mit Textilien;475100;47;4;81;83;2.46913580246915;2;Handel
+179; Sonstiger Detailhandel mit Metallwaren, Anstrichmitteln, Bau- und Heimwerkerbedarf;475202;47;4;185;150;-18.9189189189189;1;Handel
+180; Detailhandel mit Vorhängen, Teppichen, Fussbodenbelägen und Tapeten;475300;47;4;21;7;-66.6666666666667;0;Handel
+181; Detailhandel mit elektrischen Haushaltsgeräten;475400;47;4;41;34;-17.0731707317073;1;Handel
+182; Detailhandel mit Musikinstrumenten;475901;47;4;51;36;-29.4117647058823;0;Handel
+183; Detailhandel mit Möbeln;475902;47;4;162;118;-27.1604938271605;0;Handel
+184; Detailhandel mit Einrichtungsgegenständen und Hausrat a. n. g.;475903;47;4;62;67;8.06451612903225;3;Handel
+185; Detailhandel mit Büchern;476100;47;4;195;130;-33.3333333333333;0;Handel
+186; Detailhandel mit Zeitschriften und Zeitungen, Kioske;476201;47;4;236;184;-22.0338983050847;0;Handel
+187; Detailhandel mit Schreibwaren und Bürobedarf;476202;47;4;89;50;-43.8202247191011;0;Handel
+188; Detailhandel mit bespielten Ton- und Bildträgern;476300;47;4;23;14;-39.1304347826087;0;Handel
+189; Detailhandel mit Fahrrädern;476401;47;4;85;100;17.6470588235294;3;Handel
+190; Detailhandel mit Sportartikeln;476402;47;4;252;259;2.77777777777777;2;Handel
+191; Detailhandel mit Spielwaren;476500;47;4;65;50;-23.0769230769231;0;Handel
+192; Detailhandel mit Damenbekleidung;477101;47;4;406;300;-26.1083743842365;0;Handel
+193; Detailhandel mit Herrenbekleidung;477102;47;4;97;70;-27.8350515463918;0;Handel
+194; Detailhandel mit Säuglings- und Kinderbekleidung;477103;47;4;13;23;76.9230769230769;4;Handel
+195; Detailhandel mit Bekleidungszubehör und Bekleidung ohne ausgeprägten Schwerpunkt;477105;47;4;755;563;-25.4304635761589;0;Handel
+196; Detailhandel mit Schuhen;477201;47;4;311;208;-33.1189710610932;0;Handel
+197; Detailhandel mit Lederwaren und Reiseartikeln;477202;47;4;34;31;-8.82352941176471;1;Handel
+198; Apotheken;477300;47;4;798;811;1.62907268170427;2;Handel
+199; Detailhandel mit medizinischen und orthopädischen Artikeln;477400;47;4;36;15;-58.3333333333333;0;Handel
+200; Drogerien;477501;47;4;99;103;4.04040404040404;2;Handel
+201; Parfümerien und sonstiger Detailhandel mit kosmetischen Artikeln und Körperpflegemitteln;477502;47;4;193;175;-9.32642487046632;1;Handel
+202; Detailhandel mit Blumen und Pflanzen;477602;47;4;135;117;-13.3333333333333;1;Handel
+203; Detailhandel mit Haustieren und zoologischem Bedarf für Haustiere;477603;47;4;36;34;-5.55555555555556;1;Handel
+204; Detailhandel mit Uhren und Schmuck;477700;47;4;293;222;-24.2320819112628;0;Handel
+205; Detailhandel mit Brennstoffen und Heizmaterial;477801;47;4;10;12;20;3;Handel
+206; Detailhandel mit Brillen und anderen Sehhilfen;477802;47;4;295;287;-2.71186440677966;2;Handel
+207; Detailhandel mit fotografischen Artikeln;477803;47;4;13;15;15.3846153846154;3;Handel
+208; Detailhandel mit Geschenkartikeln und Souvenirs;477804;47;4;36;15;-58.3333333333333;0;Handel
+209; Kunsthandel;477805;47;4;113;114;0.884955752212391;2;Handel
+210; Sonstiger Fachdetailhandel a. n. g. (in Verkaufsräumen);477806;47;4;88;67;-23.8636363636364;0;Handel
+211; Detailhandel mit Antiquitäten;477901;47;4;38;19;-50;0;Handel
+212; Detailhandel mit Gebrauchtwaren a. n. g. (in Verkaufsräumen);477902;47;4;115;118;2.60869565217392;2;Handel
+213; Detailhandel mit Nahrungs- und Genussmitteln, Getränken und Tabakwaren an Verkaufsständen und auf Märkten;478100;47;4;16;9;-43.75;0;Handel
+214; Detailhandel mit sonstigen Gütern an Verkaufsständen und auf Märkten;478900;47;4;10;6;-40;0;Handel
+215; Versand- und Internet-Detailhandel;479100;47;4;92;124;34.7826086956522;4;Handel
+216; Sonstiger Detailhandel, nicht in Verkaufsräumen, an Verkaufsständen oder auf Märkten;479900;47;4;14;15;7.14285714285714;3;Handel
+217; Personenbeförderung im Eisenbahnfernverkehr;491000;49;4;1292;1260;-2.47678018575851;2;Dienstleistungen
+218; Güterbeförderung im Eisenbahnverkehr;492000;49;4;81;61;-24.6913580246914;0;Dienstleistungen
+219; Personenbeförderung im Nahverkehr zu Lande (ohne Taxis);493100;49;4;1105;1263;14.2986425339366;3;Dienstleistungen
+220; Betrieb von Taxis;493200;49;4;560;357;-36.25;0;Dienstleistungen
+221; Nicht-regelmässiger Personenbeförderung im Landverkehr;493901;49;4;27;20;-25.9259259259259;0;Dienstleistungen
+222; Regelmässige Personenbeförderung im Regional- und Fernverkehr;493902;49;4;88;55;-37.5;0;Dienstleistungen
+223; Güterbeförderung im Strassenverkehr;494100;49;4;989;953;-3.64004044489383;2;Dienstleistungen
+224; Umzugstransporte;494200;49;4;151;140;-7.28476821192053;1;Dienstleistungen
+225; Personenbeförderung in der See- und Küstenschifffahrt;501000;50;5;12;6;-50;0;Dienstleistungen
+226; Güterbeförderung in der See- und Küstenschifffahrt;502000;50;5;8;8;0;2;Dienstleistungen
+227; Personenbeförderung in der Binnenschifffahrt;503000;50;5;1059;1005;-5.09915014164306;1;Dienstleistungen
+228; Güterbeförderung in der Binnenschifffahrt;504000;50;5;339;260;-23.3038348082596;0;Dienstleistungen
+229; Personenbeförderung in der Luftfahrt;511000;51;5;796;856;7.53768844221105;3;Dienstleistungen
+230; Güterbeförderung in der Luftfahrt;512100;51;5;8;6;-25;0;Dienstleistungen
+231; Lagerung;521000;52;5;173;63;-63.5838150289017;0;Dienstleistungen
+232; Erbringung von sonstigen Dienstleistungen für den Landverkehr;522100;52;5;65;86;32.3076923076923;4;Dienstleistungen
+233; Erbringung von sonstigen Dienstleistungen für die Schifffahrt;522200;52;5;117;147;25.6410256410256;4;Dienstleistungen
+234; Erbringung von sonstigen Dienstleistungen für die Luftfahrt;522300;52;5;700;680;-2.85714285714286;2;Dienstleistungen
+235; Frachtumschlag;522400;52;5;34;20;-41.1764705882353;0;Dienstleistungen
+236; Erbringung von sonstigen Dienstleistungen für den Verkehr a. n. g.;522900;52;5;2228;2017;-9.47037701974866;1;Dienstleistungen
+237; Postdienste von Universaldienstleistungsanbietern;531000;53;5;647;515;-20.4018547140649;0;Dienstleistungen
+238; Sonstige Post-, Kurier- und Expressdienste;532000;53;5;1320;1331;0.83333333333333;2;Dienstleistungen
+239; Hotels, Gasthöfe und Pensionen mit Restaurant;551001;55;5;1630;1196;-26.6257668711656;0;Gastronomie
+240; Hotels, Gasthöfe und Pensionen ohne Restaurant;551002;55;5;93;86;-7.52688172043011;1;Gastronomie
+241; Verwaltung von Hotels, Gasthöfen und Pensionen;551003;55;5;20;13;-35;0;Gastronomie
+242; Ferienwohnungen, Ferienhäuser;552001;55;5;43;31;-27.9069767441861;0;Gastronomie
+243; Sonstige Beherbergungsstätten;559000;55;5;9;10;11.1111111111111;3;Gastronomie
+244; Restaurants, Imbissstuben, Tea-Rooms und Gelaterias;561001;56;5;4830;4514;-6.54244306418219;1;Gastronomie
+245; Event-Caterer;562100;56;5;2140;405;-81.0747663551402;0;Gastronomie
+246; Erbringung sonstiger Verpflegungsdienstleistungen;562900;56;5;1043;929;-10.9300095877277;1;Gastronomie
+247; Bars;563001;56;5;592;482;-18.5810810810811;1;Gastronomie
+248; Diskotheken, Dancings, Night Clubs;563002;56;5;170;118;-30.5882352941176;0;Gastronomie
+249; Verlegen von Büchern;581100;58;5;162;175;8.02469135802468;3;Kreativwirtschaft
+250; Verlegen von Zeitungen;581300;58;5;348;159;-54.3103448275862;0;Kreativwirtschaft
+251; Verlegen von Zeitschriften;581400;58;5;362;408;12.707182320442;3;Kreativwirtschaft
+252; Sonstiges Verlagswesen (ohne Software);581900;58;5;85;112;31.7647058823529;4;Kreativwirtschaft
+253; Herstellung von Filmen, Videofilmen und Fernsehprogrammen;591100;59;5;197;208;5.58375634517767;3;Kreativwirtschaft
+254; Nachbearbeitung und sonstige Filmtechnik;591200;59;5;5;4;-20;1;Kreativwirtschaft
+255; Filmverleih und -vertrieb (ohne Videotheken);591300;59;5;7;19;171.428571428571;4;Kreativwirtschaft
+256; Kinos;591400;59;5;119;95;-20.1680672268908;0;Kreativwirtschaft
+257; Tonstudios, Herstellung von Radiobeiträgen, Verlegen von bespielten Tonträgern und Musikalien;592000;59;5;79;79;0;2;Kreativwirtschaft
+258; Radioveranstalter;601000;60;6;276;381;38.0434782608696;4;Kreativwirtschaft
+259; Fernsehveranstalter;602000;60;6;112;106;-5.35714285714286;1;Kreativwirtschaft
+260; Leitungsgebundene Telekommunikation;611000;61;6;566;531;-6.18374558303887;1;Dienstleistungen
+261; Drahtlose Telekommunikation;612000;61;6;75;60;-20;1;Dienstleistungen
+262; Sonstige Telekommunikation;619000;61;6;18;17;-5.55555555555556;1;Dienstleistungen
+263; Programmierungstätigkeiten;620100;62;6;1153;1540;33.5646140503036;4;Dienstleistungen
+264; Erbringung von Beratungsleistungen auf dem Gebiet der Informationstechnologie;620200;62;6;1240;1326;6.93548387096774;3;Dienstleistungen
+265; Erbringung von sonstigen Dienstleistungen der Informationstechnologie;620900;62;6;81;75;-7.40740740740741;1;Dienstleistungen
+266; Datenverarbeitung, Hosting und damit verbundene Tätigkeiten;631100;63;6;74;86;16.2162162162162;3;Dienstleistungen
+267; Webportale;631200;63;6;26;83;219.230769230769;4;Kreativwirtschaft
+268; Korrespondenz- und Nachrichtenbüros;639100;63;6;12;9;-25;0;Kreativwirtschaft
+269; Kantonalbanken;641902;64;6;970;1087;12.0618556701031;3;Finanzwesen
+270; Grossbanken;641903;64;6;1626;907;-44.2189421894219;0;Finanzwesen
+271; Regionalbanken und Sparkassen;641904;64;6;33;47;42.4242424242424;4;Finanzwesen
+272; Raiffeisenbanken;641905;64;6;70;62;-11.4285714285714;1;Finanzwesen
+273; Börsenbanken;641907;64;6;517;424;-17.9883945841393;1;Finanzwesen
+274; Ausländisch beherrschte Banken;641908;64;6;906;854;-5.73951434878587;1;Finanzwesen
+275; Privatbankiers;641910;64;6;135;128;-5.18518518518518;1;Finanzwesen
+276; Andere Banken;641911;64;6;536;482;-10.0746268656716;1;Finanzwesen
+277; Sonstige Kreditinstitute (ohne Spezialkreditinstitute) a. n. g.;641912;64;6;15;17;13.3333333333333;3;Finanzwesen
+278; Andere Holdinggesellschaften;642002;64;6;72;81;12.5;3;Finanzwesen
+279; Sonstige Spezialkreditinstitute;649202;64;6;38;39;2.63157894736843;2;Finanzwesen
+280; Investmentgesellschaften;649901;64;6;162;189;16.6666666666667;3;Finanzwesen
+281; Tresorerie innerhalb einer Unternehmensgruppe;649902;64;6;33;19;-42.4242424242424;0;Finanzwesen
+282; Sonstige Finanzierungsinstitutionen a. n. g.;649903;64;6;21;44;109.52380952381;4;Finanzwesen
+283; Lebensversicherungen;651100;65;6;279;324;16.1290322580645;3;Finanzwesen
+284; Unfallversicherung (SUVA);651201;65;6;140;118;-15.7142857142857;1;Finanzwesen
+285; Unfall- und Schadenversicherung;651202;65;6;3376;3534;4.68009478672986;2;Finanzwesen
+286; Krankenkassen;651203;65;6;230;210;-8.69565217391305;1;Finanzwesen
+287; Sonstige Versicherungen (ohne Sozialversicherung) a. n. g.;651204;65;6;48;41;-14.5833333333333;1;Finanzwesen
+288; Pensionskassen und Pensionsfonds;653000;65;6;220;215;-2.27272727272727;2;Finanzwesen
+289; Sonstige mit Finanzdienstleistungen verbundene Tätigkeiten;661900;66;6;221;203;-8.1447963800905;1;Finanzwesen
+290; Risiko- und Schadensbewertung;662100;66;6;28;29;3.57142857142858;2;Finanzwesen
+291; Tätigkeit von Versicherungsmaklerinnen und -maklern;662200;66;6;590;617;4.57627118644068;2;Finanzwesen
+292; Ausgleichskassen;662901;66;6;159;164;3.14465408805031;2;Finanzwesen
+293; Sonstige mit Versicherungsdienstleistungen und Pensionskassen verbundene Tätigkeiten a. n. g.;662902;66;6;347;701;102.017291066282;4;Finanzwesen
+294; Fondsleitungen;663001;66;6;228;251;10.0877192982456;3;Finanzwesen
+295; Fondsmanagement;663002;66;6;560;606;8.21428571428571;3;Finanzwesen
+296; Kauf und Verkauf von eigenen Grundstücken, Gebäuden und Wohnungen;681000;68;6;196;169;-13.7755102040816;1;#NV
+297; Vermietung und Verpachtung von eigenen oder geleasten Grundstücken;682001;68;6;47;46;-2.12765957446809;2;#NV
+298; Vermietung und Verpachtung von eigenen oder geleasten Gebäuden und Wohnungen;682002;68;6;651;850;30.568356374808;4;#NV
+299; Vermittlung von Grundstücken, Gebäuden und Wohnungen für Dritte;683100;68;6;189;207;9.52380952380953;3;#NV
+300; Verwaltung von Grundstücken, Gebäuden und Wohnungen für Dritte;683200;68;6;1595;1492;-6.4576802507837;1;#NV
+301; Advokatur-, Notariatsbüros;691001;69;6;1072;1163;8.48880597014925;3;#NV
+302; Patentanwaltsbüros, Patentverwertung;691002;69;6;76;86;13.1578947368421;3;#NV
+303; Wirtschaftsprüfung und Steuerberatung, Buchführung, Treuhandgesellschaften;692000;69;6;1675;1682;0.417910447761205;2;#NV
+304; Firmensitzaktivitäten von anderen Gesellschaften;701002;70;7;4410;4455;1.0204081632653;2;#NV
+305; Public-Relations-Beratung;702100;70;7;268;354;32.089552238806;4;Kreativwirtschaft
+306; Unternehmensberatung;702200;70;7;2105;2407;14.3467933491686;3;Kreativwirtschaft
+307; Architekturbüros;711101;71;7;2736;3022;10.453216374269;3;Kreativwirtschaft
+308; Raumplanungsbüros;711102;71;7;39;38;-2.56410256410257;2;Kreativwirtschaft
+309; Landschaftsplanungsbüros und Gartenarchitekturbüros;711103;71;7;73;93;27.3972602739726;4;Kreativwirtschaft
+310; Bau-Ingenieurbüros;711201;71;7;1004;848;-15.5378486055777;1;#NV
+311; Gebäudetechnik-Ingenieurbüros;711202;71;7;195;172;-11.7948717948718;1;#NV
+312; Sonstige Ingenieurbüros;711203;71;7;926;1430;54.4276457883369;4;#NV
+313; Geometerbüros;711204;71;7;6;7;16.6666666666667;3;#NV
+314; Sonstige technische Beratung und Planung;711205;71;7;552;579;4.8913043478261;2;#NV
+315; Technische, physikalische und chemische Untersuchung;712000;71;7;269;397;47.5836431226766;4;#NV
+316; Forschung und Entwicklung im Bereich Biotechnologie;721100;72;7;500;658;31.6;4;Life Sciences, Chemie, Pharma
+317; Sonstige Forschung und Entwicklung im Bereich Natur-, Ingenieur-, Agrarwissenschaften und Medizin;721900;72;7;2317;2541;9.66767371601209;3;Life Sciences, Chemie, Pharma
+318; Forschung und Entwicklung im Bereich Rechts-, Wirtschafts- und Sozialwissenschaften sowie im Bereich Sprach-, Kultur- und Kunstwissenschaften;722000;72;7;70;70;0;2;#NV
+319; Werbeagenturen;731100;73;7;886;779;-12.0767494356659;1;Kreativwirtschaft
+320; Vermarktung und Vermittlung von Werbezeiten und Werbeflächen;731200;73;7;95;52;-45.2631578947368;0;Kreativwirtschaft
+321; Markt- und Meinungsforschung;732000;73;7;95;36;-62.1052631578947;0;#NV
+322; Industrie- und Produktdesign;741001;74;7;92;113;22.8260869565217;4;Kreativwirtschaft
+323; Grafikdesign und Visuelle Kommunikation;741002;74;7;499;499;0;2;Kreativwirtschaft
+324; Innenarchitektur und Raumgestaltung;741003;74;7;177;174;-1.69491525423728;2;Kreativwirtschaft
+325; Fotografie;742001;74;7;166;161;-3.01204819277109;2;Kreativwirtschaft
+326; Fotolabors;742002;74;7;6;4;-33.3333333333333;0;Kreativwirtschaft
+327; Übersetzen und Dolmetschen;743000;74;7;175;121;-30.8571428571429;0;Kreativwirtschaft
+328; Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten a. n. g.;749000;74;7;308;340;10.3896103896104;3;#NV
+329; Veterinärwesen;750000;75;7;61;61;0;2;#NV
+330; Vermietung von Automobilen mit einem Gesamtgewicht von 3,5 t oder weniger;771100;77;7;237;226;-4.64135021097046;2;#NV
+331; Vermietung von sonstigen Gebrauchsgütern;772900;77;7;6;6;0;2;#NV
+332; Vermietung von sonstigen Maschinen, Geräten und beweglichen Sachen a. n. g.;773900;77;7;28;20;-28.5714285714286;0;#NV
+333; Leasing von geistigem Eigentum und ähnlichen Produkten (ohne Copyrights);774000;77;7;32;13;-59.375;0;#NV
+334; Vermittlung von Arbeitskräften;781000;78;7;637;830;30.298273155416;4;#NV
+335; Befristete Überlassung von Arbeitskräften;782000;78;7;6530;6753;3.41500765696785;2;#NV
+336; Reisebüros;791100;79;7;443;280;-36.7945823927765;0;Dienstleistungen
+337; Reiseveranstalter;791200;79;7;69;165;139.130434782609;4;#NV
+338; Erbringung sonstiger Reservierungsdienstleistungen;799002;79;7;109;99;-9.1743119266055;1;Kreativwirtschaft
+339; Private Wach- und Sicherheitsdienste;801000;80;8;1286;1271;-1.16640746500778;2;#NV
+340; Hausmeisterdienste, Facility Management;811000;81;8;678;773;14.0117994100295;3;Dienstleistungen
+341; Allgemeine Gebäudereinigung;812100;81;8;3947;3178;-19.483151760831;1;Dienstleistungen
+342; Kaminfeger;812201;81;8;19;16;-15.7894736842105;1;Dienstleistungen
+343; Spezielle Reinigung von Gebäuden und Reinigung von Maschinen;812202;81;8;34;12;-64.7058823529412;0;Dienstleistungen
+344; Reinigung a. n. g.;812900;81;8;462;482;4.32900432900434;2;Dienstleistungen
+345; Garten- und Landschaftsbau sowie Erbringung von sonstigen gärtnerischen Dienstleistungen;813000;81;8;192;210;9.375;3;Dienstleistungen
+346; Allgemeine Sekretariats- und Schreibdienste;821100;82;8;5;13;160;4;#NV
+347; Sekretariats- und Schreibdienste;821901;82;8;121;83;-31.4049586776859;0;#NV
+348; Copy Shops;821902;82;8;15;11;-26.6666666666667;0;Dienstleistungen
+349; Call Centers;822000;82;8;38;31;-18.4210526315789;1;#NV
+350; Messe-, Ausstellungs- und Kongressveranstalter;823000;82;8;642;389;-39.4080996884735;0;Kreativwirtschaft
+351; Inkassobüros und Auskunfteien;829100;82;8;27;27;0;2;#NV
+352; Abfüllen und Verpacken;829200;82;8;13;11;-15.3846153846154;1;Dienstleistungen
+353; Erbringung sonstiger wirtschaftlicher Dienstleistungen für Unternehmen und Privatpersonen a. n. g.;829900;82;8;31;87;180.645161290323;4;#NV
+354; Allgemeine öffentliche Verwaltung;841100;84;8;1291;1245;-3.56312935708752;2;#NV
+355; Öffentliche Verwaltung auf den Gebieten Gesundheitswesen, Bildung, Kultur und Sozialwesen;841200;84;8;832;1044;25.4807692307692;4;#NV
+356; Wirtschaftsförderung, -ordnung und -aufsicht;841300;84;8;740;748;1.08108108108107;2;#NV
+357; Auswärtige Angelegenheiten;842100;84;8;8;7;-12.5;1;#NV
+358; Verteidigung;842201;84;8;29;27;-6.89655172413793;1;#NV
+359; Verwaltung der Rechtspflege, Gerichte;842301;84;8;815;840;3.06748466257669;2;#NV
+360; Verwaltung von Strafvollzugsanstalten;842302;84;8;61;58;-4.91803278688525;2;#NV
+361; Öffentliche Sicherheit und Ordnung;842400;84;8;1940;1917;-1.18556701030927;2;#NV
+362; Feuerwehren;842500;84;8;110;209;90;4;#NV
+363; Alters- und Hinterlassenenversicherung (AHV), Invalidenversicherung (IV), Arbeitslosenversicherung (ALV);843000;84;8;130;134;3.07692307692307;2;#NV
+364; Kindergärten und Vorschulen;851000;85;8;437;657;50.3432494279176;4;#NV
+365; Primarschulen;852001;85;8;2039;2401;17.7538008827857;3;#NV
+366; Sonderschulen;852002;85;8;427;269;-37.0023419203747;0;#NV
+367; Obligatorische Schulen a. n. g.;852003;85;8;139;166;19.4244604316547;3;#NV
+368; Bezirks-, Sekundar-, Realschulen, Oberstufe der Primarschulen;853101;85;8;903;976;8.08416389811739;3;#NV
+369; Maturitätsschulen;853102;85;8;802;682;-14.9625935162095;1;#NV
+370; Fachmittelschulen FMS (bisher: Diplommittelschulen DMS);853103;85;8;183;209;14.207650273224;3;#NV
+371; Berufsbildende weiterführende Schulen;853200;85;8;1148;1090;-5.05226480836237;1;#NV
+372; Universitäre Hochschulen;854201;85;8;4338;4707;8.50622406639003;3;#NV
+373; Andere Ausbildungsstätten der höheren Berufsbildung;854203;85;8;26;40;53.8461538461539;4;#NV
+374; Sport- und Freizeitunterricht;855100;85;8;198;290;46.4646464646465;4;#NV
+375; Kulturunterricht;855200;85;8;644;717;11.3354037267081;3;Kreativwirtschaft
+376; Fahr- und Flugschulen;855300;85;8;89;93;4.49438202247192;2;#NV
+377; Sprachunterricht;855901;85;8;496;596;20.1612903225806;4;#NV
+378; Informatikunterricht;855902;85;8;20;23;15;3;#NV
+379; Berufliche Erwachsenenbildung;855903;85;8;847;820;-3.18772136953955;2;#NV
+380; Sonstiger Unterricht a. n. g.;855904;85;8;168;162;-3.57142857142857;2;#NV
+381; Erbringung von Dienstleistungen für den Unterricht;856000;85;8;50;28;-44;0;#NV
+382; Allgemeine Krankenhäuser;861001;86;8;8786;10137;15.3767357159117;3;#NV
+383; Spezialkliniken;861002;86;8;4196;4431;5.60057197330792;3;#NV
+384; Arztpraxen für Allgemeinmedizin;862100;86;8;1051;1280;21.7887725975262;4;#NV
+385; Facharztpraxen;862200;86;8;1559;1746;11.9948685054522;3;#NV
+386; Zahnarztpraxen;862300;86;8;873;862;-1.26002290950744;2;#NV
+387; Psychotherapie und Psychologie;869001;86;8;247;257;4.04858299595141;2;#NV
+388; Physiotherapie;869002;86;8;614;796;29.6416938110749;4;#NV
+389; Aktivitäten der Krankenschwestern, Hauspflege;869003;86;8;1026;1355;32.0662768031189;4;#NV
+390; Aktivitäten der Hebammen;869004;86;8;30;68;126.666666666667;4;#NV
+391; Sonstige Aktivitäten der nicht-ärztlichen Medizinalberufe;869005;86;8;480;473;-1.45833333333333;2;#NV
+392; Medizinische Labors;869006;86;8;173;267;54.3352601156069;4;Life Sciences, Chemie, Pharma
+393; Sonstiges Gesundheitswesen a. n. g.;869007;86;8;222;332;49.5495495495496;4;#NV
+394; Pflegeheime;871000;87;8;3159;3489;10.4463437796771;3;#NV
+395; Institutionen für Suchtkranke;872001;87;8;90;113;25.5555555555556;4;#NV
+396; Institutionen für psychosoziale Fälle;872002;87;8;136;154;13.2352941176471;3;#NV
+397; Altersheime;873001;87;8;301;226;-24.9169435215947;0;#NV
+398; Institutionen für Behinderte;873002;87;8;908;1006;10.7929515418502;3;#NV
+399; Wohnheime für Kinder und Jugendliche;879001;87;8;478;479;0.2092050209205;2;#NV
+400; Erziehungsheime;879002;87;8;26;32;23.0769230769231;4;#NV
+401; Sonstige Wohnheime;879003;87;8;253;272;7.5098814229249;3;#NV
+402; Soziale Betreuung älterer Menschen und Behinderter;881000;88;8;1089;892;-18.0899908172635;1;#NV
+403; Tagesbetreuung von Kindern;889100;88;8;1465;1679;14.6075085324232;3;#NV
+404; Organisationen der Wohlfahrtspflege;889901;88;8;582;675;15.979381443299;3;#NV
+405; Sonstiges Sozialwesen a. n. g.;889902;88;8;1479;1632;10.3448275862069;3;#NV
+406; Theater- und Ballettgruppen;900101;90;9;731;668;-8.61833105335157;1;Kreativwirtschaft
+407; Orchester, Chöre, Musiker;900102;90;9;1132;1087;-3.97526501766784;2;Kreativwirtschaft
+408; Erbringung von Dienstleistungen für die darstellende Kunst;900200;90;9;74;99;33.7837837837838;4;Kreativwirtschaft
+409; Selbstständige bildende Künstler;900301;90;9;236;223;-5.50847457627118;1;Kreativwirtschaft
+410; Sonstige künstlerische und schriftstellerische Tätigkeiten und Darbietungen;900302;90;9;77;76;-1.2987012987013;2;Kreativwirtschaft
+411; Selbstständige Journalisten;900303;90;9;76;73;-3.94736842105263;2;Kreativwirtschaft
+412; Betrieb von Kultur- und Unterhaltungseinrichtungen;900400;90;9;142;122;-14.0845070422535;1;Kreativwirtschaft
+413; Bibliotheken und Archive;910100;91;9;249;244;-2.00803212851406;2;Kreativwirtschaft
+414; Museen;910200;91;9;633;721;13.9020537124803;3;Kreativwirtschaft
+415; Betrieb von historischen Stätten und Gebäuden und ähnlichen Attraktionen;910300;91;9;5;7;40;4;Kreativwirtschaft
+416; Botanische und zoologische Gärten sowie Naturparks;910400;91;9;148;222;50;4;#NV
+417; Spiel-, Wett- und Lotteriewesen;920000;92;9;448;428;-4.46428571428571;2;#NV
+418; Betrieb von Sportanlagen;931100;93;9;174;193;10.9195402298851;3;#NV
+419; Sportvereine;931200;93;9;489;478;-2.24948875255624;2;#NV
+420; Gymnastik- und Fitnesszentren;931300;93;9;536;514;-4.10447761194029;2;Dienstleistungen
+421; Erbringung von sonstigen Dienstleistungen des Sports;931900;93;9;69;54;-21.7391304347826;0;#NV
+422; Vergnügungs- und Themenparks;932100;93;9;22;14;-36.3636363636364;0;#NV
+423; Erbringung von Dienstleistungen der Unterhaltung und der Erholung a. n. g.;932900;93;9;256;283;10.546875;3;#NV
+424; Wirtschafts- und Arbeitgeberverbände;941100;94;9;203;263;29.5566502463054;4;#NV
+425; Berufsorganisationen;941200;94;9;347;314;-9.51008645533141;1;#NV
+426; Arbeitnehmervereinigungen;942000;94;9;62;61;-1.61290322580645;2;#NV
+427; Kirchgemeinden und religiöse Vereinigungen;949101;94;9;1081;841;-22.2016651248844;0;#NV
+428; Klöster und Ordensgemeinschaften;949102;94;9;37;32;-13.5135135135135;1;#NV
+429; Politische Parteien und Vereinigungen;949200;94;9;21;31;47.6190476190476;4;#NV
+430; Organisationen der Kultur, Bildung, Wissenschaft und Forschung;949901;94;9;491;630;28.3095723014257;4;#NV
+431; Organisationen des Gesundheitswesens;949902;94;9;103;167;62.1359223300971;4;#NV
+432; Jugendorganisationen;949903;94;9;262;415;58.3969465648855;4;#NV
+433; Sonstige Interessenvertretungen und Vereinigungen a. n. g.;949904;94;9;1107;895;-19.1508581752484;1;#NV
+434; Reparatur von Telekommunikationsgeräten;951200;95;9;13;25;92.3076923076923;4;Dienstleistungen
+435; Reparatur von Schuhen und Lederwaren;952300;95;9;25;20;-20;1;Dienstleistungen
+436; Reparatur von Möbeln und Einrichtungsgegenständen;952400;95;9;45;32;-28.8888888888889;0;Dienstleistungen
+437; Reparatur von Uhren und Schmuck;952500;95;9;6;8;33.3333333333333;4;Dienstleistungen
+438; Reparatur von sonstigen Gebrauchsgütern;952900;95;9;54;48;-11.1111111111111;1;Dienstleistungen
+439; Wäscherei;960101;96;9;301;264;-12.2923588039867;1;Dienstleistungen
+440; Textilreinigung;960102;96;9;49;37;-24.4897959183674;0;Dienstleistungen
+441; Coiffeursalons;960201;96;9;936;914;-2.35042735042735;2;Dienstleistungen
+442; Kosmetiksalons;960202;96;9;340;373;9.70588235294119;3;Dienstleistungen
+443; Bestattungswesen;960300;96;9;98;99;1.0204081632653;2;Dienstleistungen
+444; Saunas, Solarien;960401;96;9;17;19;11.7647058823529;3;Dienstleistungen
+445; Sonstiges Körperpflegegewerbe;960402;96;9;97;141;45.360824742268;4;Dienstleistungen
+446; Erbringung von sonstigen Dienstleistungen a. n. g.;960900;96;9;196;244;24.4897959183674;4;Dienstleistungen
